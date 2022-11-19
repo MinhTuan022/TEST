@@ -9,5 +9,5 @@ package test_sql;
  * @author ADMIN
  */
 public class NewClass1 {
-    
+    //ok
 }
